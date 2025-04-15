@@ -1,0 +1,2 @@
+# OpenCv
+Exploring OpenCv Essentials
